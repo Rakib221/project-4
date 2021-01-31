@@ -29,9 +29,13 @@ body {
 	padding-top: 50px;
 }
 
+.padding-right{
+    padding-right: 2px;
+}
+
 /* card-end */
 
-/*  */
+/* welcome-start */
 
 .hide {
 	display: none;
@@ -40,4 +44,6 @@ body {
 .padding-top {
 	margin-top: 100px;
 }
+
+/* welcome end */
 
