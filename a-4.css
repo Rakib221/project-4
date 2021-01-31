@@ -1,0 +1,43 @@
+*{
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	text-decoration: none;
+	box-sizing: border-box;
+}
+
+body {
+	background-image: url('bus.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+    height: 100vh;
+}
+
+
+
+/* some details about bus start */
+.gap-top {
+	padding-top:200px;
+	color: white;
+}
+
+/* some details about bus end */
+
+/* card-start  */
+.card-gap-top{
+	padding-top: 50px;
+}
+
+/* card-end */
+
+/*  */
+
+.hide {
+	display: none;
+}
+
+.padding-top {
+	margin-top: 100px;
+}
+
